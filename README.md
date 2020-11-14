@@ -1,7 +1,7 @@
 ## Hi there 👋 welcome to my Github profile
 #### For now I am learning the basics, I hope in the near future, to have a much more pro XD profile
 
-[![Siendomiguel's github stats](https://github-readme-stats.vercel.app/api?username=siendomiguel)](https://github.com/siendomiguel/github-readme-stats)
+[![Siendomiguel's github stats](https://github-readme-stats.vercel.app/api?username=siendomiguel)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
